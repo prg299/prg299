@@ -1,8 +1,5 @@
-- Hello, I’m @prg299
-- I’m interested in game development and programming
-- I’m currently learning game development
-- I’m looking to collaborate on projects
-- How to reach me: erik.and2000@gmail.com
+- Hello there, I’m a game developer and programmer
+- You can reach me via mail: erik.and2000@gmail.com
 
 <!---
 prg299/prg299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
